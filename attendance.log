@@ -1,0 +1,147 @@
+2026-05-20 23:28:47,481 [INFO] Facial attendance started
+2026-05-21 08:33:03,151 [INFO] Facial attendance started
+2026-05-21 08:33:06,544 [INFO] Facial attendance started
+2026-05-21 08:33:13,555 [INFO] Facial attendance started
+2026-05-22 13:10:59,068 [INFO] Facial attendance started
+2026-05-22 13:17:21,264 [INFO] Facial attendance started
+2026-05-22 13:19:08,899 [INFO] Facial attendance stopped
+2026-05-22 13:21:32,724 [INFO] Facial attendance started
+2026-05-22 13:21:48,335 [INFO] Facial attendance stopped
+2026-05-22 13:44:27,143 [INFO] Facial attendance started
+2026-05-22 13:44:33,402 [INFO] Facial attendance stopped
+2026-05-22 14:14:44,697 [INFO] Facial attendance started
+2026-05-22 14:14:48,696 [INFO] Facial attendance stopped
+2026-05-22 14:16:15,663 [INFO] Facial attendance started
+2026-05-22 14:16:20,723 [INFO] Facial attendance stopped
+2026-05-22 14:17:48,371 [INFO] Facial attendance started
+2026-05-22 14:17:50,171 [INFO] Attendance marked: 01 ml Present 29.94
+2026-05-22 14:18:01,185 [INFO] Attendance marked: 03 ml Present 37.81
+2026-05-22 14:18:10,467 [WARNING] Unknown face detected. Distance: 0.726
+2026-05-22 14:18:18,512 [WARNING] Unknown face detected. Distance: 0.707
+2026-05-22 14:18:20,681 [WARNING] Unknown face detected. Distance: 0.678
+2026-05-22 14:18:22,522 [INFO] Facial attendance stopped
+2026-05-22 15:48:41,955 [INFO] Facial attendance started
+2026-05-22 15:48:53,855 [INFO] Facial attendance stopped
+2026-05-22 15:49:25,641 [INFO] Facial attendance started
+2026-05-22 15:53:15,208 [INFO] Facial attendance started
+2026-05-22 16:07:52,391 [INFO] Facial attendance started
+2026-05-22 16:13:48,319 [INFO] Facial attendance started
+2026-05-22 16:14:14,011 [INFO] Facial attendance stopped
+2026-05-22 16:18:56,094 [INFO] Facial attendance started
+2026-05-22 16:19:43,269 [INFO] Facial attendance stopped
+2026-05-25 11:44:59,610 [INFO] Facial attendance started
+2026-05-25 11:45:04,132 [INFO] Facial attendance stopped
+2026-05-25 11:51:02,666 [INFO] Facial attendance started
+2026-05-25 11:51:05,410 [INFO] Facial attendance started
+2026-05-25 11:51:18,138 [INFO] Facial attendance stopped
+2026-05-25 11:56:46,479 [INFO] Facial attendance started
+2026-05-25 11:56:47,290 [INFO] Attendance marked: 03 ML Present 41.76
+2026-05-25 11:57:01,825 [INFO] Attendance marked: 01 ML Present 20.24
+2026-05-25 11:57:09,937 [INFO] Facial attendance stopped
+2026-05-25 12:08:07,570 [INFO] Facial attendance started
+2026-05-25 12:08:08,430 [INFO] Attendance marked: 01 web Present 18.91
+2026-05-25 12:08:21,124 [INFO] Attendance marked: 03 web Present 33.04
+2026-05-25 12:08:34,900 [INFO] Attendance marked: 04 web Present 38.43
+2026-05-25 12:08:43,034 [INFO] Attendance marked: 02 web Present 25.58
+2026-05-25 12:08:53,668 [WARNING] Unknown face detected. Distance: 0.609
+2026-05-25 12:08:57,231 [WARNING] Unknown face detected. Distance: 0.604
+2026-05-25 12:09:01,845 [INFO] Facial attendance stopped
+2026-05-26 17:58:05,267 [INFO] Facial attendance started
+2026-05-26 17:58:06,633 [INFO] Attendance marked: 01 web Present 13.06
+2026-05-26 17:58:17,559 [INFO] Facial attendance stopped
+2026-05-30 11:17:39,336 [INFO] Facial attendance started
+2026-05-30 11:17:40,665 [INFO] Facial attendance started
+2026-05-30 11:17:43,840 [INFO] Facial attendance started
+2026-05-30 11:19:00,862 [INFO] Attendance marked: 03 cc Present 17.44
+2026-05-30 11:19:24,320 [INFO] Facial attendance started
+2026-05-30 11:19:27,088 [INFO] Facial attendance started
+2026-05-30 11:19:32,599 [INFO] Facial attendance started
+2026-05-30 11:19:38,232 [INFO] Facial attendance started
+2026-05-30 11:19:39,661 [INFO] Facial attendance started
+2026-05-30 11:19:39,915 [INFO] Facial attendance started
+2026-05-30 11:19:40,302 [INFO] Facial attendance started
+2026-05-30 11:19:55,805 [INFO] Facial attendance started
+2026-05-30 11:20:51,135 [INFO] Facial attendance started
+2026-05-30 11:20:54,635 [INFO] Attendance marked: 01 cc Present 1.59
+2026-05-30 11:21:23,351 [WARNING] Unknown face detected. Distance: 0.611
+2026-05-30 11:22:14,476 [WARNING] Unknown face detected. Distance: 0.609
+2026-05-30 11:22:20,108 [WARNING] Unknown face detected. Distance: 0.615
+2026-05-30 11:22:37,119 [WARNING] Unknown face detected. Distance: 0.602
+2026-05-30 11:22:37,617 [WARNING] Unknown face detected. Distance: 0.622
+2026-05-30 11:23:36,305 [WARNING] Unknown face detected. Distance: 0.624
+2026-05-30 11:23:36,798 [WARNING] Unknown face detected. Distance: 0.606
+2026-05-30 11:23:37,819 [WARNING] Unknown face detected. Distance: 0.639
+2026-05-30 11:23:40,554 [WARNING] Unknown face detected. Distance: 0.629
+2026-05-30 11:23:51,957 [WARNING] Unknown face detected. Distance: 0.627
+2026-05-30 11:23:52,437 [WARNING] Unknown face detected. Distance: 0.609
+2026-05-30 11:23:52,955 [WARNING] Unknown face detected. Distance: 0.604
+2026-05-30 11:23:53,506 [WARNING] Unknown face detected. Distance: 0.633
+2026-05-30 11:23:54,015 [WARNING] Unknown face detected. Distance: 0.621
+2026-05-30 11:23:54,521 [WARNING] Unknown face detected. Distance: 0.631
+2026-05-30 11:23:55,528 [WARNING] Unknown face detected. Distance: 0.610
+2026-05-30 11:23:56,277 [WARNING] Unknown face detected. Distance: 0.622
+2026-05-30 11:23:56,873 [WARNING] Unknown face detected. Distance: 0.645
+2026-05-30 11:24:03,952 [WARNING] Unknown face detected. Distance: 0.615
+2026-05-30 11:24:08,833 [WARNING] Unknown face detected. Distance: 0.608
+2026-05-30 11:24:09,342 [WARNING] Unknown face detected. Distance: 0.622
+2026-05-30 11:24:09,851 [WARNING] Unknown face detected. Distance: 0.639
+2026-05-30 11:24:10,343 [WARNING] Unknown face detected. Distance: 0.610
+2026-05-30 11:24:11,334 [WARNING] Unknown face detected. Distance: 0.605
+2026-05-30 11:24:11,837 [WARNING] Unknown face detected. Distance: 0.603
+2026-05-30 11:24:13,837 [WARNING] Unknown face detected. Distance: 0.625
+2026-05-30 11:24:14,345 [WARNING] Unknown face detected. Distance: 0.611
+2026-05-30 11:24:15,849 [WARNING] Unknown face detected. Distance: 0.655
+2026-05-30 11:24:16,411 [WARNING] Unknown face detected. Distance: 0.621
+2026-05-30 11:24:16,984 [WARNING] Unknown face detected. Distance: 0.616
+2026-05-30 11:24:17,980 [WARNING] Unknown face detected. Distance: 0.617
+2026-05-30 11:24:38,597 [WARNING] Unknown face detected. Distance: 0.601
+2026-05-30 11:28:36,220 [INFO] Facial attendance stopped
+2026-05-30 11:35:30,293 [INFO] Facial attendance started
+2026-05-30 11:35:42,775 [INFO] Facial attendance stopped
+2026-05-30 11:36:27,070 [INFO] Facial attendance started
+2026-05-30 11:36:27,935 [INFO] Attendance marked: 03 tl Present 13.17
+2026-05-30 11:36:46,960 [WARNING] Unknown face detected. Distance: 0.605
+2026-05-30 11:36:47,404 [WARNING] Unknown face detected. Distance: 0.600
+2026-05-30 11:36:47,851 [WARNING] Unknown face detected. Distance: 0.617
+2026-05-30 11:36:48,300 [WARNING] Unknown face detected. Distance: 0.625
+2026-05-30 11:36:48,741 [WARNING] Unknown face detected. Distance: 0.706
+2026-05-30 11:36:49,203 [WARNING] Unknown face detected. Distance: 0.609
+2026-05-30 11:36:49,643 [WARNING] Unknown face detected. Distance: 0.612
+2026-05-30 11:36:51,881 [WARNING] Unknown face detected. Distance: 0.601
+2026-05-30 11:36:51,889 [INFO] Attendance marked: 01 tl Present 28.38
+2026-05-30 11:37:08,783 [INFO] Facial attendance stopped
+2026-05-30 13:49:36,170 [INFO] Facial attendance started
+2026-05-30 13:49:47,370 [INFO] Facial attendance stopped
+2026-05-30 13:49:57,368 [INFO] Facial attendance started
+2026-05-30 13:50:02,055 [INFO] Facial attendance started
+2026-05-30 13:50:19,846 [INFO] Facial attendance stopped
+2026-05-30 13:50:55,647 [INFO] Facial attendance started
+2026-05-30 13:51:04,247 [INFO] Facial attendance started
+2026-05-30 13:51:10,441 [WARNING] Unknown face detected. Distance: 0.620
+2026-05-30 13:51:11,571 [INFO] Attendance marked: 04 cc Present 40.57
+2026-05-30 13:51:46,995 [INFO] Facial attendance stopped
+2026-05-30 14:07:02,849 [INFO] Facial attendance started
+2026-05-30 14:07:04,759 [INFO] Attendance marked: 03 ml Present 39.09
+2026-05-30 14:07:06,655 [INFO] Facial attendance started
+2026-05-30 14:07:27,133 [INFO] Facial attendance started
+2026-05-30 14:07:38,446 [INFO] Facial attendance started
+2026-05-30 14:07:50,261 [INFO] Attendance marked: 04 ml Present 0.42
+2026-05-30 14:08:53,784 [WARNING] Unknown face detected. Distance: 0.662
+2026-05-30 14:08:54,891 [WARNING] Unknown face detected. Distance: 0.605
+2026-05-30 14:08:55,996 [WARNING] Unknown face detected. Distance: 0.608
+2026-05-30 14:08:58,197 [WARNING] Unknown face detected. Distance: 0.645
+2026-05-30 14:08:59,269 [WARNING] Unknown face detected. Distance: 0.629
+2026-05-30 14:09:01,498 [WARNING] Unknown face detected. Distance: 0.613
+2026-05-30 14:09:03,687 [WARNING] Unknown face detected. Distance: 0.637
+2026-05-30 14:09:04,739 [WARNING] Unknown face detected. Distance: 0.610
+2026-05-30 14:10:21,136 [INFO] Attendance marked: 01 ml Present 9.52
+2026-05-30 14:10:41,836 [WARNING] Unknown face detected. Distance: 0.663
+2026-05-30 14:10:42,925 [WARNING] Unknown face detected. Distance: 0.606
+2026-05-30 14:11:45,307 [WARNING] Unknown face detected. Distance: 0.709
+2026-05-30 14:11:47,383 [WARNING] Unknown face detected. Distance: 0.616
+2026-05-30 14:12:02,843 [WARNING] Unknown face detected. Distance: 0.616
+2026-05-30 14:12:05,672 [WARNING] Unknown face detected. Distance: 0.654
+2026-05-30 14:12:25,216 [WARNING] Unknown face detected. Distance: 0.650
+2026-05-30 14:13:27,848 [WARNING] Unknown face detected. Distance: 0.610
+2026-05-30 14:14:14,951 [WARNING] Unknown face detected. Distance: 0.676
+2026-05-30 14:14:52,336 [INFO] Facial attendance stopped
